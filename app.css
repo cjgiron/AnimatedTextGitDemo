@@ -8,10 +8,10 @@ body {
 }
 
 h1 {
-    font-size: 20rem;
+    font-size: 10rem;
     font-family: Montserrat;
 }
 
 .letter {
-    transition: color 1000ms;
+    transition: color 2000ms;
 }
